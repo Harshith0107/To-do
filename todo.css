@@ -25,7 +25,7 @@
     color: #002765;
     display: flex;
     align-items: center;
-    margin-bottom: 20px;
+    margin:0 0 20px 10px;
 }
 
 .todo h2 img{
